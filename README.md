@@ -1,7 +1,7 @@
 # Solar Panel Adjuster
 
 
-[exercise]
+[in development]
 
 A project for managing and adjusting the position of solar panels based on solar zenith angles. IN DEVELOPMENT
 
